@@ -9,7 +9,7 @@
 [![Tests](https://img.shields.io/badge/test%20cases-7%2F7%20passed-2ea44f)](#test-results)
 [![SDG 6](https://img.shields.io/badge/UN%20SDG-6%20Clean%20Water-26BDE2)](https://sdgs.un.org/goals/goal6)
 
-<img src="assets/network_topology.png" width="820" alt="AquaSentinel network topology in Cisco Packet Tracer">
+<img src="assets/aquasentinel.png" width="820" alt="AquaSentinel network topology in Cisco Packet Tracer">
 
 </div>
 
