@@ -24,7 +24,6 @@
 | **What I built** | A 3-part individual project: a requirements proposal, an edge-to-cloud architecture with four algorithms, and a working **13-device Packet Tracer simulation** with Python-scripted sensors and 10 automation rules |
 | **Result** | **7 of 7 test cases passed**; alerts fired in **3–4 s** (target under 5 s) and the manual override in **1 s** (target under 2 s) |
 
-> University coursework (ITS67404 Internet of Things, Taylor's University; module grade B+), individual assignment in three parts. Parts 1–2 are design documents; Part 3 is the simulation in this repository. The sensors are simulated proxies, not real hardware.
 
 ## Part 1–2: the design
 
